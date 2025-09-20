@@ -8,6 +8,10 @@
 2. [Machine Learning Projects in Python](https://assets.digitalocean.com/books/python/machine-learning-projects-python.pdf)
 
 
+# LLMs and AI Books: 
+1. [Foundations of LLMs](https://arxiv.org/pdf/2501.09223)
+
+
 
 
 
